@@ -1,0 +1,3 @@
+Hello Beatrice
+I hope you are enjoying the DevOps Class
+Today we are learning version control
